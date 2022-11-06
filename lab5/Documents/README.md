@@ -1,0 +1,1 @@
+Dane oryginalne zostały przetworzone w taki sposób, że usunięto niepotrzebne kolumny rozdzielające właściwe dane.
