@@ -1,0 +1,2 @@
+W folderze Analysis_Data został zawart jeden plik - weather.csv.
+Plik ten zawiera informacje z pliku weather.txt po oczyszczeniu ze zbędnych kolumn. Pierwsza kolumna zawiera informacje o tym, jakie dane przedstawia dany wiersz. Kolumny 2-32 zawierają wartości dla poszczególnych dni miesiąca.

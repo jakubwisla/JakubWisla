@@ -1,0 +1,4 @@
+Oryginalne dane są zawarte w folderze Original_Data w pliku weather.txt.
+Przetworzone dane zostały przedstawione w pliku weather.csv dostępnym w folderze Analysis_Data. Poszczególne kolumny w tym pliku zawierają następujące informacje:
+- 1: informacja o id stacji pogodowej, roku, miesiącu i nazwie mierzonej wartości
+- 2-32: wartości zmiennych w poszczególnych dniach miesiąca.
