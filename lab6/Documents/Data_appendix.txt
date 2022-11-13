@@ -1,0 +1,2 @@
+W folderze Analysis_Data został zawarty jeden plik - POMORSKIE.csv.
+Plik ten zawiera informacje z pliku oryginalnego 10_POMORSKIE.csv (znajdującego się w folderze Original_data) po oczyszczeniu ze zbędnej kolumny z indeksami. Pierwsza kolumna zawiera informacje o tym, ile dni upłynęło od zakupu. Druga kolumna mówi o marce produktu. Trzecia kolumna przedstawia informację o wieku kupującego (bd. oznacza brak danych). Czwarta kolumna informuje o płci kupującego (bd. oznacza brak danych). Ostatnia kolumna pokazuje ocenę wystawioną przez klienta.

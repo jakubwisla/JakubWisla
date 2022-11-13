@@ -1,0 +1,7 @@
+Oryginalne dane są zawarte w folderze Original_Data w pliku 10_POMORSKIE.csv.
+Przetworzone dane zostały przedstawione w pliku weather.csv dostępnym w folderze Analysis_Data. Poszczególne kolumny w tym pliku zawierają następujące informacje:
+- 1: informacja o ilości dni od zakupu
+- 2: marka produktu
+- 3: wiek osoby, która zakupiła dany produkt
+- 4: płeć danego klienta
+- 5: ocena wystawiona przez klienta
